@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simranmohapatra" alt="simranmohapatra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/simranmohapatra" target="blank"><img src="https://img.shields.io/twitter/follow/simranmohapatra?logo=twitter&style=for-the-badge" alt="simranmohapatra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/simranmohapatra14" target="blank"><img src="https://img.shields.io/twitter/follow/simranmohapatra14?logo=twitter&style=for-the-badge" alt="simranmohapatra14" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/simranmohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simranmohapatra" height="30" width="40" /></a>
+<a href="https://twitter.com/simranmohapatra14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simranmohapatra14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simran mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simran mohapatra" height="30" width="40" /></a>
 <a href="https://fb.com/simran mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simran mohapatra" height="30" width="40" /></a>
 <a href="https://instagram.com/simran_ohapatra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simran_ohapatra_" height="30" width="40" /></a>
