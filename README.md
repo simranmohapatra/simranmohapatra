@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **simranmohapatra14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IGFB8DVJ9KLv74R03856Aod3cAweeAEE/view?usp=drivesdk](https://drive.google.com/file/d/1IGFB8DVJ9KLv74R03856Aod3cAweeAEE/view?usp=drivesdk)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IGFB8DVJ9KLv74R03856Aod3cAweeAEE/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
