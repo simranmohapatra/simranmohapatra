@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **C, PYTHON, SQL+**
 
+- My portfolio 🔗 *[Simran](https://simran-mohapatra-portfolio.vercel.app/)*
+
 - 📫 How to reach me **simranmohapatra14@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IGFB8DVJ9KLv74R03856Aod3cAweeAEE/view?usp=drivesdk)
