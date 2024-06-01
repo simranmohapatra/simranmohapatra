@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simranmohapatra" alt="simranmohapatra" /></a> </p>
 
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXkxZzFpazIzYzN5bXAzaG5zb3puNGkzNHhlY2xwY3p3NjNxOWRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 <p align="left"> <a href="https://twitter.com/simranmohapatra14" target="blank"><img src="https://img.shields.io/twitter/follow/simranmohapatra14?logo=twitter&style=for-the-badge" alt="simranmohapatra14" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
